@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test
+  description: backstage-test
+  annotations:
+    github.com/project-slug: sayali10/backstage-test
+spec:
+  type: website
+  lifecycle: experimental
+  owner: sayali10
