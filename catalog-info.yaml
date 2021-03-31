@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: backstage-test
   description: backstage-test
+  invalid-text
+  
   annotations:
     github.com/project-slug: sayali10/backstage-test
 spec:
